@@ -10,6 +10,8 @@ permalink: /deployment/day1/
     background-color: #0077be !important;
     background-image: linear-gradient(120deg, #003973, #0077be, #00c6ff) !important;
   }
+</style>
+
 
 # LOREM IPSUM STUFF
 
@@ -50,3 +52,5 @@ __This is bold text__
 _This is italic text_
 
 ~~Strikethrough~~
+
+[← Back to Home](/)

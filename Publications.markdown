@@ -14,3 +14,6 @@ permalink: /publications/
 ## On this page, we will provide links to publications and presentations that describe results from the Galapagos triple junction OBS deployment. 
 
 1. OBS Deployment Manual (In Preparation)
+
+[← Back to Home](/)
+

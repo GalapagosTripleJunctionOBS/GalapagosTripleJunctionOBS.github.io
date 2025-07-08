@@ -51,3 +51,5 @@ __This is bold text__
 _This is italic text_
 
 ~~Strikethrough~~
+
+[← Back to Home](/)
