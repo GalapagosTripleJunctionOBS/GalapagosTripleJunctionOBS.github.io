@@ -7,6 +7,16 @@ title: Galapagos Triple Junction OBS Deployment
   header {
     background-color: #0077be !important;
     background-image: linear-gradient(120deg, #003973, #0077be, #00c6ff) !important;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 250px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2em;
+    text-shadow: 1px 1px 5px #000;
   }
 </style>
 
@@ -46,7 +56,7 @@ title: Galapagos Triple Junction OBS Deployment
 }
 
 /* Individual color overrides */
-.about        { background-color: #117a8b; }
+.About        { background-color: #117a8b; }
 .experiment   { background-color: #1d91c0; }
 .news         { background-color: #145a7a; }
 .retrieval    { background-color: #2a5d9f; }
@@ -89,12 +99,17 @@ title: Galapagos Triple Junction OBS Deployment
 }
 </style>
 
+
 <div class="link-grid">
 
-  <!-- Row 1 -->
-  <a href="/about" class="link-button about">
-    About
-  </a>
+
+<div class="dropdown About">
+  <div class="dropdown-button">About ▼</div>
+  <div class="dropdown-content">
+    <a href="/About/Rationale">Scientific Rationale</a>
+    <a href="/About/Contact">Contact Us</a>
+  </div>
+</div>
 
 <div class="dropdown experiment">
   <div class="dropdown-button">Experiment ▼</div>
@@ -107,19 +122,9 @@ title: Galapagos Triple Junction OBS Deployment
   <div class="dropdown news">
     <div class="dropdown-button">News ▼</div>
     <div class="dropdown-content">
-      <a href="/news/announcement1">Announcement 1</a>
-      <a href="/news/announcement2">Announcement 2</a>
-      <a href="/news/announcement3">Announcement 3</a>
-    </div>
-  </div>
-
-  <!-- Row 2 -->
-  <div class="dropdown retrieval">
-    <div class="dropdown-button">Retrieval Blog ▼</div>
-    <div class="dropdown-content">
-      <a href="/retrieval/day1">Day 1</a>
-      <a href="/retrieval/day2">Day 2</a>
-      <a href="/retrieval/day3">Day 3</a>
+      <a href="/news/DeparturefromSanDiego">Departure from San Diego</a>
+      <a href="/news/DeploymentCruiseComplete">All Instruments Deployed!</a>
+      <a href="/news/RecoveryBeginning">Recovery Cruise Beginning!</a>
     </div>
   </div>
 
@@ -136,8 +141,34 @@ title: Galapagos Triple Junction OBS Deployment
     </div>
   </div>
 
+  <div class="dropdown retrieval">
+    <div class="dropdown-button">Retrieval Blog ▼</div>
+    <div class="dropdown-content">
+      <a href="/retrieval/day1">Day 1</a>
+      <a href="/retrieval/day2">Day 2</a>
+      <a href="/retrieval/day3">Day 3</a>
+    </div>
+  </div>
+
   <a href="/publications" class="link-button publications">
     Publications
   </a>
 
+</div>
+
+<br>
+
+<b>This is the website/blog for the Galapagos Triple Junction ocean-bottom seismometer (OBS) Deployment, a massive deployment of 40 OBSs in the Pacific Ocean. </b> The goal of this ambitious seismic experiment is to provide the most robust and detailed images of the upper mantle beneath a ridge-ridge triple junction, thereby illuminating the origin of mantle upwellings and the internal structures in oceanic plates. This page contains links to blog posts and more information about the experiment. Contact us if you have any questions!
+
+<div style="margin-top: 2em;">
+  <p><strong>Share this page:</strong></p>
+  <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url }}&text={{ page.title | uri_escape }}" target="_blank" style="margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" width="24" height="24">
+  </a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" target="_blank" style="margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="Facebook" width="24" height="24">
+  </a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}&title={{ page.title | uri_escape }}" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="24" height="24">
+  </a>
 </div>
