@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Galapagos Triple Junction Deployment
+title: Galapagos Triple Junction OBS Deployment
 ---
 
 <style>
@@ -11,26 +11,55 @@ title: Galapagos Triple Junction Deployment
 </style>
 
 
+
 <style>
-/* Dropdown styling */
-.dropdown {
-  position: relative;
-  display: inline-block;
-  flex: 1;
+/* Grid layout: 3 columns, 2 rows */
+.link-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1em;
+  margin-top: 2em;
 }
 
+/* Shared button styles */
+.link-button,
 .dropdown-button {
-  font-size: 1.8em;
-  background-color: #155799;
+  font-size: 1.4em;
   color: white;
   padding: 1em;
   border-radius: 12px;
   text-align: center;
   text-decoration: none;
-  display: block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
   cursor: pointer;
 }
 
+/* Static links */
+.link-button {
+  display: flex;
+}
+
+/* Individual color overrides */
+.about        { background-color: #117a8b; }
+.experiment   { background-color: #1d91c0; }
+.news         { background-color: #145a7a; }
+.retrieval    { background-color: #2a5d9f; }
+.deployment   { background-color: #3167b2; }
+.publications { background-color: #635bb1; }
+
+/* Dropdown wrapper */
+.dropdown {
+  position: relative;
+  width: 100%;
+}
+
+/* Dropdown content styling */
 .dropdown-content {
   display: none;
   position: absolute;
@@ -60,35 +89,55 @@ title: Galapagos Triple Junction Deployment
 }
 </style>
 
-<div style="display: flex; justify-content: space-between; gap: 1em; margin-top: 2em;">
+<div class="link-grid">
 
-  <a href="/page1" style="flex: 1; font-size: 1.8em; background-color: #159957; color: white; padding: 1em; border-radius: 12px; text-align: center; text-decoration: none; display: block;">
-    Page One
+  <!-- Row 1 -->
+  <a href="/about" class="link-button about">
+    About
   </a>
 
-  <a href="/page2" style="flex: 1; font-size: 1.8em; background-color: #127ba3; color: white; padding: 1em; border-radius: 12px; text-align: center; text-decoration: none; display: block;">
-    Page Two
-  </a>
-
-  <div class="dropdown">
-    <div class="dropdown-button">More Links ▼</div>
-    <div class="dropdown-content">
-      <a href="/page3a">Page 3A</a>
-      <a href="/page3b">Page 3B</a>
-      <a href="/page3c">Page 3C</a>
-    </div>
+<div class="dropdown experiment">
+  <div class="dropdown-button">Experiment ▼</div>
+  <div class="dropdown-content">
+    <a href="/experiment/team">Team</a>
+    <a href="/experiment/study-region">Study Region</a>
   </div>
-
-  <div class="dropdown">
-    <div class="dropdown-button">Resources ▼</div>
-    <div class="dropdown-content">
-      <a href="/page4a">Page 4A</a>
-      <a href="/page4b">Page 4B</a>
-      <a href="/page4c">Page 4C</a>
-    </div>
-  </div>
-
 </div>
 
+  <div class="dropdown news">
+    <div class="dropdown-button">News ▼</div>
+    <div class="dropdown-content">
+      <a href="/news/announcement1">Announcement 1</a>
+      <a href="/news/announcement2">Announcement 2</a>
+      <a href="/news/announcement3">Announcement 3</a>
+    </div>
+  </div>
 
-Welcome to the 2025 Galápagos Triple Junction Deployment site...
+  <!-- Row 2 -->
+  <div class="dropdown retrieval">
+    <div class="dropdown-button">Retrieval Blog ▼</div>
+    <div class="dropdown-content">
+      <a href="/retrieval/day1">Day 1</a>
+      <a href="/retrieval/day2">Day 2</a>
+      <a href="/retrieval/day3">Day 3</a>
+    </div>
+  </div>
+
+  <div class="dropdown deployment">
+    <div class="dropdown-button">Deployment Blog ▼</div>
+    <div class="dropdown-content">
+      <a href="/deployment/day1">Day 1</a>
+      <a href="/deployment/day2">Day 2</a>
+      <a href="/deployment/day3">Day 3</a>
+      <a href="/deployment/day4">Day 4</a>
+      <a href="/deployment/day5">Day 5</a>
+      <a href="/deployment/day6">Day 6</a>
+     
+    </div>
+  </div>
+
+  <a href="/publications" class="link-button publications">
+    Publications
+  </a>
+
+</div>
