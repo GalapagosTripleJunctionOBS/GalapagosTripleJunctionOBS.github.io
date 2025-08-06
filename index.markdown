@@ -144,9 +144,11 @@ title: Galapagos Triple Junction OBS Deployment
   <div class="dropdown retrieval">
     <div class="dropdown-button">Retrieval Blog ▼</div>
     <div class="dropdown-content">
+      <!--
       <a href="/retrieval/day1">Day 1</a>
       <a href="/retrieval/day2">Day 2</a>
       <a href="/retrieval/day3">Day 3</a>
+      -->
     </div>
   </div>
 
