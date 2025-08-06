@@ -70,7 +70,7 @@ permalink: /experiment/team/
       <tr><td>Kavi Gollamudi</td><td>UCSB</td><td>Undergraduate Student</td></tr>
       <tr><td>Dilini Arachchige</td><td>Southern Illinois U.</td><td>PhD Student</td></tr>
       <tr><td>Cate Mcleod</td><td>UCSD</td><td>Researcher</td></tr>
-      <tr><td>Erica Lucas</td><td>McGill</td><td>Postdoc</td></tr>
+      <tr><td>Crystal Luna</td><td>Louisiana State University</td><td>Graduate Student</td></tr>
     </tbody>
   </table>
 </div>
