@@ -21,7 +21,7 @@ Our [science party](https://galapagostriplejunctionobs.github.io/experiment/team
 
 <figure> 
   <img src="/assets/images/Langseth.png" alt="Photo of the Langseth, as we board on Saturday" style="max-width: 95%; height: auto; display: block; margin: 1.5em auto;" /> 
-  <figcaption>The Langseth, as it welcomes the Science Party onboard on Saturday night</figcaption> 
+  <figcaption style="text-align: center;">The Langseth, as it welcomes the Science Party onboard on Saturday night</figcaption> 
 </figure>
 
 
