@@ -122,21 +122,15 @@ title: Galapagos Triple Junction OBS Deployment
   <div class="dropdown news">
     <div class="dropdown-button">News ▼</div>
     <div class="dropdown-content">
-      <a href="/news/DeparturefromSanDiego">Departure from San Diego</a>
-      <a href="/news/DeploymentCruiseComplete">All Instruments Deployed!</a>
-      <a href="/news/RecoveryBeginning">Recovery Cruise Beginning!</a>
+      <a href="/news/DeparturefromSanDiego">Sucessful Departure from San Diego!</a>
     </div>
   </div>
 
   <div class="dropdown deployment">
     <div class="dropdown-button">Deployment Blog ▼</div>
     <div class="dropdown-content">
-      <a href="/deployment/day1">Day 1</a>
-      <a href="/deployment/day2">Day 2</a>
-      <a href="/deployment/day3">Day 3</a>
-      <a href="/deployment/day4">Day 4</a>
-      <a href="/deployment/day5">Day 5</a>
-      <a href="/deployment/day6">Day 6</a>
+      <a href="/deployment/day1">Blog Post 1!</a>
+
      
     </div>
   </div>
