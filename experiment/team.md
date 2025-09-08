@@ -61,14 +61,14 @@ permalink: /experiment/team/
       <tr><td>Joshua Russell</td><td>Syracuse University</td><td>Chief Scientist</td></tr>
       <tr><td>Will Frazer</td><td>Carnegie Institution for Science
  </td><td>Co-Chief Scientist</td></tr>
-      <tr><td>Anant Hariharan</td><td>UCSB</td><td>Co-Chief Scientist</td></tr>
-      <tr><td>Kenni Godana</td><td>UCSB</td><td>Grad Student</td></tr>
-      <tr><td>Cristhian Salas</td><td>UCSB</td><td>Grad Student</td></tr>
-      <tr><td>Giselle San Ramon</td><td>UCSB</td><td>Grad Student</td></tr>
-      <tr><td>Jessica Saunders</td><td>UCSB</td><td>Grad Student</td></tr>
-      <tr><td>Helin Henstridge</td><td>UCSB</td><td>Grad Student</td></tr>
-      <tr><td>Kavi Gollamudi</td><td>UCSB</td><td>Undergraduate Student</td></tr>
-      <tr><td>Dilini Arachchige</td><td>Southern Illinois U.</td><td>PhD Student</td></tr>
+      <tr><td>Anant Hariharan</td><td>University of California Santa Barbara</td><td>Co-Chief Scientist</td></tr>
+      <tr><td>Kenni Godana</td><td>University of California Santa Barbara</td><td>Grad Student</td></tr>
+      <tr><td>Cristhian Salas</td><td>University of California Santa Barbara</td><td>Grad Student</td></tr>
+      <tr><td>Giselle San Ramon</td><td>University of California Santa Barbara</td><td>Grad Student</td></tr>
+      <tr><td>Jessica Saunders</td><td>University of California Santa Barbara</td><td>Grad Student</td></tr>
+      <tr><td>Helin Henstridge</td><td>University of California Santa Barbara</td><td>Grad Student</td></tr>
+      <tr><td>Kavi Gollamudi</td><td>University of California Santa Barbara</td><td>Undergraduate Student</td></tr>
+      <tr><td>Dilini Arachchige</td><td>Southern Illinois University</td><td>PhD Student</td></tr>
       <tr><td>Cate Mcleod</td><td>UCSD</td><td>Researcher</td></tr>
       <tr><td>Crystal Luna</td><td>Louisiana State University</td><td>Graduate Student</td></tr>
     </tbody>
