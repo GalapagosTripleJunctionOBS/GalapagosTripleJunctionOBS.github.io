@@ -12,30 +12,20 @@ permalink: /news/DeparturefromSanDiego/
   }
 </style>
 
-# And we're off!
+# The Galapagos Triple Junction OBS Deployment has begun!
 
- **Instruments have been loaded on the Marcus Langseth**.
+ **Sunday September 7th; 9:53 PM**.
 
-LOREM IPSEUM emphasis with **asterisks and _underscores_**.
+Our vessel, the R.V. Marcus Langseth, formally departed San Diego (after refueling) on Sunday night, September 7th, 2025. You can follow our path using [Marine Traffic's helpful utility here.]([http://example.com](https://www.marinetraffic.com/en/ais/details/ships/shipid:435849/mmsi:367059880/imo:9010137/vessel:MARCUS_G_LANGSETH))
+Our science party of 12, comprising a variety of scientists at different career stages, is incredibly excited and fortunate to be able to head on this journey and share it with you! Please explore the rest of this website to learn more about our project, goals, and our day-to-day experiences on our blog! 
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+![Photo of the R.V. Marcus Langseth as we boarded](Langseth.png "View of the Langseth as the Science Party Boards")
 
-**This is bold text**
 
-__This is bold text__
-
-*This is italic text*
-
-_This is italic text_
 
 <div style="margin-top: 2em;">
   <p><strong>Share this page:</strong></p>
-  <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url }}&text={{ page.title | uri_escape }}" target="_blank" style="margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" width="24" height="24">
-  </a>
-  <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" target="_blank" style="margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="Facebook" width="24" height="24">
-  </a>
+
   <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}&title={{ page.title | uri_escape }}" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="24" height="24">
   </a>
