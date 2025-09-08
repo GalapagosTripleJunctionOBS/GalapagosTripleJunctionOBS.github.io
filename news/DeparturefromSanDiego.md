@@ -20,8 +20,8 @@ Our vessel, the R.V. Marcus Langseth, formally departed San Diego (after refueli
 Our [science party](https://galapagostriplejunctionobs.github.io/experiment/team/), comprising a variety of scientists at different career stages, is incredibly excited and fortunate to be able to head on this journey and share it with you! Please explore the rest of this website to learn more about our [project, goals](https://galapagostriplejunctionobs.github.io/About/Rationale), and follow along our day-to-day experiences on our blog as we (and the incredible Langseth crew) embark on this unique adventure together! 
 
 <figure>
-<img src="/assets/images/Langseth.png" alt="Photo of the Langseth, as we board on Saturday" style="max-width: 80%; height: auto; display: block; margin: 1.5em auto;" />
-  <figcaption>The Langseth, as it welcomes the Science Party onboard on Saturday night</figcaption>
+<img src="/assets/images/Langseth.png" alt="Photo of the Langseth, as we board on Saturday" style="max-width: 95%; height: auto; display: block; margin: 1.5em auto;" />
+  <figcaption style="text-align: center;">The Langseth, as it welcomes the Science Party onboard on Saturday night</figcaption>
 </figure>
 
 
