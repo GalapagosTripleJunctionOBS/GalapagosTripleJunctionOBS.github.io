@@ -17,19 +17,19 @@ permalink: /deployment/day1/
 Who’s on the science team (at a glance)?
 ======
 
-## 1. Cheering from land: Zach Eilon — Principal Investigator (UCSB)
-## 2. Josh Russell — Chief Scientist (Syracuse University)
-## 3. Anant Hariharan — Co-Chief Scientist (UCSB)
-## 4. Will Frazer — Co-Chief Scientist (Carnegie Institution)
-## 5. Jess Saunders — Graduate Student (UCSB)
-## 6. Helin Henstridge — Graduate Student (UCSB)
-## 7. Kenni Godana — Graduate Student (UCSB)
-## 8. Cate McLeod — Researcher (UCSD)
-## 9. Dilini Walakulu Arachchige — Graduate Student (Southern Illinois University)
-## 10. Crystal Luna — Graduate Student (LSU)
-## 11. Giselle San Ramon — Graduate Student (UCSB)
-## 12. Kavi Gollamudi — Undergraduate Student (UCSB)
-## 13. Cristhian Salas — Graduate Student (UCSB)
+#### 1. Cheering from land: Zach Eilon — Principal Investigator (UCSB)
+#### 2. Josh Russell — Chief Scientist (Syracuse University)
+#### 3. Anant Hariharan — Co-Chief Scientist (UCSB)
+#### 4. Will Frazer — Co-Chief Scientist (Carnegie Institution)
+#### 5. Jess Saunders — Graduate Student (UCSB)
+#### 6. Helin Henstridge — Graduate Student (UCSB)
+#### 7. Kenni Godana — Graduate Student (UCSB)
+#### 8. Cate McLeod — Researcher (UCSD)
+#### 9. Dilini Walakulu Arachchige — Graduate Student (Southern Illinois University)
+#### 10. Crystal Luna — Graduate Student (LSU)
+#### 11. Giselle San Ramon — Graduate Student (UCSB)
+#### 12. Kavi Gollamudi — Undergraduate Student (UCSB)
+#### 13. Cristhian Salas — Graduate Student (UCSB)
 
 ### *The Science Party is led on land by Zach Eilon, with Josh Russell serving as Chief Scientist and Anant Hariharan and Will Frazer as Co-Chief Scientists. Our group also includes graduate and undergraduate students, along with researchers from several universities. Each person brings their own background and perspective to the project, so I sat down with each of them for a short interview to introduce the team.*
 
@@ -59,7 +59,7 @@ If you have sailed this far into the blog, thank you for following along. Before
 This is just the beginning of our time at sea, and these are the people you’ll be hearing more from as the cruise continues. Everyone has their own story and perspective to share, and together we’ll be giving a glimpse into life and science on board. Stay tuned for more blog posts as we dive deeper into this adventure. 
 
 <figure> 
-  <img src="/assets/images/TeamPic_Post1.png" alt="Photo of the Langseth, as we board on Saturday" style="max-width: 95%; height: auto; display: block; margin: 1.5em auto;" /> 
+  <img src="/assets/images/TeamPic_Post1.png" alt="Photo of the Science Part on Deck" style="max-width: 95%; height: auto; display: block; margin: 1.5em auto;" /> 
   <figcaption style="text-align: center;">Science party aboard the R/V Marcus Langseth. Front row (from left to right): Kenni, Cristhian, Giselle, Helin, Dilini. Back row (from left to right): Anant, Will, Josh, Jess, Crystal, Kavi, Cate.</figcaption> 
 </figure>
 
