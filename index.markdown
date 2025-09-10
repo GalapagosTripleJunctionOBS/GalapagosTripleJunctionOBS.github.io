@@ -155,7 +155,7 @@ title: Galapagos Triple Junction OBS Deployment
 
 <br>
 
-<b>This is the website/blog for the Galapagos Triple Junction ocean-bottom seismometer (OBS) Deployment, a massive deployment of 40 OBSs in the Pacific Ocean. </b> The goal of this ambitious seismic experiment is to provide the most robust and detailed images of the upper mantle beneath a ridge-ridge triple junction, thereby illuminating the origin of mantle upwellings and the internal structures in oceanic plates. This page contains links to blog posts and more information about the experiment. [Contact us](https://galapagostriplejunctionobs.github.io/About/Contact) if you have any questions!
+<b>This is the website/blog for the Galapagos Triple Junction ocean-bottom seismometer (OBS) Deployment, a massive deployment of 45 OBSs in the Pacific Ocean. </b> The goal of this ambitious seismic experiment is to provide the most robust and detailed images of the upper mantle beneath a ridge-ridge triple junction, thereby illuminating the origin of mantle upwellings and the internal structures in oceanic plates. This page contains links to blog posts and more information about the experiment. [Contact us](https://galapagostriplejunctionobs.github.io/About/Contact) if you have any questions!
 
 <div style="margin-top: 2em;">
   <p><strong>Share this page:</strong></p>
