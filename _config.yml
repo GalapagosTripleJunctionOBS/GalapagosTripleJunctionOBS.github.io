@@ -21,7 +21,7 @@
 title: Galapagos Triple Junction Deployment
 email: eilon@geol.ucsb.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  An ambitious seismometer deployment to image and understand mid-ocean ridge dynamics.
+ The Galapagos Triple Junction OBS Deployment is an ambitious ocean-bottom seismometer deployment to image and understand mid-ocean ridge dynamics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: eilonzach
