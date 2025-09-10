@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog Posts
-permalink: /deployment/day1/
+permalink: /deployment/MeetTheScienceParty/
 ---
 
 
