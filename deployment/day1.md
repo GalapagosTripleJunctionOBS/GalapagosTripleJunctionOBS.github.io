@@ -14,22 +14,22 @@ permalink: /deployment/day1/
 
 # Meet the Science Team!
 
-Who’s on the science team (at a glance)?
+### Who’s on the science team (at a glance)?
 ======
 
-#### 1. Cheering from land: Zach Eilon — Principal Investigator (UCSB)
-#### 2. Josh Russell — Chief Scientist (Syracuse University)
-#### 3. Anant Hariharan — Co-Chief Scientist (UCSB)
-#### 4. Will Frazer — Co-Chief Scientist (Carnegie Institution)
-#### 5. Jess Saunders — Graduate Student (UCSB)
-#### 6. Helin Henstridge — Graduate Student (UCSB)
-#### 7. Kenni Godana — Graduate Student (UCSB)
-#### 8. Cate McLeod — Researcher (UCSD)
-#### 9. Dilini Walakulu Arachchige — Graduate Student (Southern Illinois University)
-#### 10. Crystal Luna — Graduate Student (LSU)
-#### 11. Giselle San Ramon — Graduate Student (UCSB)
-#### 12. Kavi Gollamudi — Undergraduate Student (UCSB)
-#### 13. Cristhian Salas — Graduate Student (UCSB)
+###### 1. Cheering from land: Zach Eilon — Principal Investigator (UCSB)
+###### 2. Josh Russell — Chief Scientist (Syracuse University)
+###### 3. Anant Hariharan — Co-Chief Scientist (UCSB)
+###### 4. Will Frazer — Co-Chief Scientist (Carnegie Institution)
+###### 5. Jess Saunders — Graduate Student (UCSB)
+###### 6. Helin Henstridge — Graduate Student (UCSB)
+###### 7. Kenni Godana — Graduate Student (UCSB)
+###### 8. Cate McLeod — Researcher (UCSD)
+###### 9. Dilini Walakulu Arachchige — Graduate Student (Southern Illinois University)
+###### 10. Crystal Luna — Graduate Student (LSU)
+###### 11. Giselle San Ramon — Graduate Student (UCSB)
+###### 12. Kavi Gollamudi — Undergraduate Student (UCSB)
+###### 13. Cristhian Salas — Graduate Student (UCSB)
 
 ### *The Science Party is led on land by Zach Eilon, with Josh Russell serving as Chief Scientist and Anant Hariharan and Will Frazer as Co-Chief Scientists. Our group also includes graduate and undergraduate students, along with researchers from several universities. Each person brings their own background and perspective to the project, so I sat down with each of them for a short interview to introduce the team.*
 
