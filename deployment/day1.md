@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog
+title: Blog Posts
 permalink: /deployment/day1/
 ---
 
