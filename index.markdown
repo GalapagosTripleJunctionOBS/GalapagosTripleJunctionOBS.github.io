@@ -123,6 +123,7 @@ title: Galapagos Triple Junction OBS Deployment
     <div class="dropdown-button">News ▼</div>
     <div class="dropdown-content">
       <a href="/news/DeparturefromSanDiego">Sucessful Departure from San Diego!</a>
+     <a href="/news/VoyageDetails">Voyage Details</a>
     </div>
   </div>
 
