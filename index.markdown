@@ -130,7 +130,7 @@ title: Galapagos Triple Junction OBS Deployment
   <div class="dropdown deployment">
     <div class="dropdown-button">Deployment Blog ▼</div>
     <div class="dropdown-content">
-      <a href="/deployment/day1">Meet the Science Team!</a>
+      <a href="/deployment/MeetTheScienceParty">Meet the Science Team!</a>
 
      
     </div>
