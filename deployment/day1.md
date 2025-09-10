@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog Post 1
+title: Blog
 permalink: /deployment/day1/
 ---
 
@@ -12,7 +12,7 @@ permalink: /deployment/day1/
   }
 </style>
 
-# LOREM IPSUM STUFF
+# Meet the Science Team!
 
 ```
 Emphasis, aka italics, with *asterisks* or _underscores_.
