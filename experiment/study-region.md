@@ -11,7 +11,7 @@ permalink: /experiment/study-region/
 </style>
 
 
-The study region for this experiment encompasses a region across the Galapagos triple junction, where both the East Pacific Rise and Cocos-Nazca ridges meet. The network of ocean-bottom seismometers being deployed includes a zone of relatively dense coverage overlying the Cocos-Nazca ridge, which is in a stage of active rift initiation at longitudes near approx. 101.8 W. Northwards, our network of stations span a region oriented ENE, perpendicular to the Pacific-Cocos Ridge. 
+The study region for this experiment encompasses a region across the Galapagos triple junction, where both the East Pacific Rise and Cocos-Nazca ridges meet. The networks of ocean-bottom seismometers being deployed include a zone of relatively dense coverage overlying the Cocos-Nazca ridge, which is in a stage of active rift initiation at longitudes near approx. 101.8 W. Northwards, our network of stations span a region oriented ENE, perpendicular to the Pacific-Cocos Ridge. 
 
 ![Map](../assets/images/study-region-map.png)
 
