@@ -40,6 +40,9 @@ However, all has not been perfect for this community. The logistically complex n
 
 To this day, work continues to understand how the Langseth and other vessels can best serve the marine geophysics community’s needs, but what is certain to me, as I look around a room filled with plaques commemorating the achievements of the Langseth and preceding vessels, is that there truly is no vessel quite like this. The science community has benefited immeasurably from the data and facilities provided by the Langseth and its stewards, and I, for one, feel incredibly fortunate to be able to sail on it. 
 
+Signing off,
+-Anant Hariharan.
+
 
 
 <div style="margin-top: 2em;">
