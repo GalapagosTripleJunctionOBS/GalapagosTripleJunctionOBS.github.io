@@ -14,7 +14,7 @@ permalink: /deployment/EngineRoom/
 
 # Engine Room
 
-Dear readers,
+Dear Readers,
 
 During our transit down to the Galapagos Triple Junction the 1st engineer gave us a tour of the heart of the ship: the engine room. On the R/V Marcus G. Langseth, the “engine” room is composed of four main rooms across two levels – engine control, engine, compressor, and propulsion. Beyond the engines and propulsion, the engineering department is responsible for maintaining almost everything on board the vessel including plumping, HVAC, and water distillation. They are equipped to fix anything on board. This vessel was originally designed to stay at sea for two years continuously with refueling and crew changes occurring while underway. 
 
@@ -53,7 +53,7 @@ The compressor room is part of what makes the Langseth special. This is where ai
 Other features of the engine room include the 800 hp bow thruster to help move the vessel when tight maneuvering is required. All A/C and refrigerator compressors are in the engine room as well. They also have a machine shop to help them fix anything they need to. Another important feature of the engine room is making fresh water for the ship. There are two systems to make fresh water on the ship. The freshwater generator heats sea water in a vacuum and then condenses it without the salt. There is also a reverse osmosis system that can make fresh water as well. During our transit, they have not had to make as much water as they usually do. The 1st engineer told us the engineering department is wondering why we don’t use so much fresh water…
 
 <figure> 
-  <img src="/assets/images/Osmosis_Final.png" alt="Tools" style="max-width: 95%; height: auto; display: block; margin: 1.5em auto;" /> 
+  <img src="/assets/images/Osmosis_Final.png" alt="Tools" style="max-width: 75%; height: auto; display: block; margin: 1.5em auto;" /> 
   <figcaption style="text-align: center;"> Reserve osmosis system used to make fresh water.  
 </figcaption> 
 </figure>
