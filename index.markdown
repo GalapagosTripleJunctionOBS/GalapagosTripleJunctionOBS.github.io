@@ -133,6 +133,7 @@ title: Galapagos Triple Junction OBS Deployment
       <a href="/deployment/MeetTheScienceParty">Meet the Science Team!</a>
       <a href="/deployment/HallowedHalls">Hallowed Halls</a>
       <a href="/deployment/EngineRoom">Engine Room</a>
+      <a href="/deployment/FoodatSea">Food at Sea</a>
 
      
     </div>
