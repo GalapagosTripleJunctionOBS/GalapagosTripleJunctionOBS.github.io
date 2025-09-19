@@ -25,7 +25,7 @@ Now lunch is where things get interesting. There are some constants which includ
 The real star of the show seems to be the salad bar, snacks, and desserts since that is the life force for the third of the boat scheduled for the night shift. We’re lucky to have a stocked salad bar with all the toppings and vegetables you’d expect. There is always an apple, orange, or banana available at the snack counter ironically surrounded by much less nutritious options but fan favorites. I hesitated to include the cereals in the breakfast section because they are the sugary cereal brands, but they’re also featured in this corner. Having this counter also be the place where there are rotating desserts and pastries feels like some sort of test. But I try not to over think it. However, an unlikely favorite of the science party has been the saltines. What started as a non-stomach upsetting calorie for our seasick friends, ended up a staple snack down in the main lab. The day we run out will be a sad day for us, indeed. Another common occurrence has been the dessert sharing culture. If you are craving a dessert or eyeing a particular pastry, you can assuredly find someone to split it with you. Things get tricky if things aren’t allocated immediately though. 
 
 <figure> 
-  <img src="/assets/images/Food_image1.png" alt="Main Engine" style="max-width: 60%; height: auto; display: block; margin: 1.5em auto;" /> 
+  <img src="/assets/images/Food_image1.png" alt="Mealtime_1" style="max-width: 60%; height: auto; display: block; margin: 1.5em auto;" /> 
 </figure>
 
 Dinner, or more like supper since it’s served at 5pm, the chefs have been especially creative. My fellow crewmembers relayed to me they’ve enjoyed dinner being pretty diverse with prime rib being served a couple times along with cultural staples like jerk chicken thighs and jambalaya. My plant based friends and I have also been eating good with potatoes au gratin and sesame tofu (served separately of course). But there’s something that I want to note for dinner in particular. As much as the food has been delicious, I’ve noticed folks linger the longest in the mess hall after dinner, catching up and sharing stories. People making creative after dinner treats end up setting trends, and then conspire on what to make next. There’s a really beautiful camaraderie that grows throughout the cruise and the energy around dinner time exemplifies that. 
@@ -37,7 +37,7 @@ Signing off,
 Kenni 
 
 <figure> 
-  <img src="/assets/images/Food_image2.png" alt="Main Engine" style="max-width: 40%; height: auto; display: block; margin: 1.5em auto;" /> 
+  <img src="/assets/images/Food_image2.png" alt="Mealtime_2" style="max-width: 40%; height: auto; display: block; margin: 1.5em auto;" /> 
 </figure>
 
 
