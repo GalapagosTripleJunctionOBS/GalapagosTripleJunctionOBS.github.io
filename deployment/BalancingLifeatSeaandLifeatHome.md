@@ -16,9 +16,23 @@ permalink: /deployment/BalancingLifeatSeaandLifeatHome/
 
 Life aboard the R/V Marcus G. Langseth runs on a schedule as steady as the waves beneath us, when we are lucky, of course. The ship operates around the clock, and the science team is split into three shifts to keep everything moving. My group works from 6 a.m. to 2 p.m., which means my mornings begin early; 5 a.m., to be exact. I wake up in my narrow two-by-five-foot berth, a space so compact that my small apartment back in Goleta, California, suddenly feels like a sprawling mansion. Within half an hour, I’ve grabbed some breakfast to go and made my way down to the lab to relieve the night shift. That handoff, brief as it is, has become one of my favorite rituals of the day. It’s when we trade stories, jokes, and updates before they head off to sleep and we take over. As an added bonus, I usually catch the last 30 minutes of whatever movie, or lately an F1 race (thank you, Christian), they have put on to help stay awake.
 
+<figure> 
+  <img src="/assets/images/B1.png" alt="Group Photo" style="max-width: 70%; height: auto; display: block; margin: 1.5em auto;" /> 
+</figure>
+
+
 During our shift, the ship feels like a hive of activity. At an ocean bottom seismometer (OBS) site, one of us works in the dry lab pinging the OBS to locate its exact position on the seafloor, while the other two are out on deck handling tag lines or helping to prepare the next instrument for deployment. A chief scientist keeps everything coordinated from the main lab, making sure we’re on target. When deployments aren’t happening, our focus shifts: cleaning up multibeam data, catching up on individual research, or, in my case, diving into a lot of literature review and learning new coding skills. As a first-year PhD student transitioning into a new research focus, this time feels like an investment; laying the groundwork for when this very dataset, a year from now, becomes the centerpiece of my dissertation on spreading centers and triple junction dynamics.
 
+<figure> 
+  <img src="/assets/images/B2.png" alt="Whiteboard of Camaraderie" style="max-width: 70%; height: auto; display: block; margin: 1.5em auto;" /> 
+</figure>
+
 By 2 p.m. our group wraps up, and the next shift takes over. The transition into “free time” at sea is unlike any free time on land. Some afternoons I sit out on deck with a book, lately a few of us have been diving into Circe, a great read when the ocean stretches endlessly in every direction, or I work quietly in the ship’s library. Other times I chat with the next group coming on shift to make sure everything is in order. More often than not, this is when I reach out to home. The internet is patchy, social media is blocked entirely (which is in many ways a great relief and wonderful for my productivity), but even a quick update goes a long way. My family and loved ones eagerly wait for any message, a little nervous but overwhelmingly proud. My partner has also been juggling the logistics of our recent move while I am away, which makes me extra grateful for the support that keeps things steady on land. Altogether, that network of encouragement feels like an anchor, keeping me steady while I am surrounded by water and far from shore.
+
+<figure> 
+  <img src="/assets/images/B2.png" alt="Work with a View" style="max-width: 70%; height: auto; display: block; margin: 1.5em auto;" /> 
+</figure>
+
 
 The lack of constant online noise has also been a blessing in disguise. Without scrolling or notifications, I’ve noticed my mind is calmer. Productivity comes more easily, and conversations last longer without the pull of outside distractions. I expected to feel isolated, but instead I often feel grounded. Professors back home let us Zoom into lectures when the internet allows, and co-TAs have kindly covered sections of classes I miss. I can’t help but wonder how much harder this would have been without the remote-learning tools developed during the pandemic. It’s strange to think that the same technology that kept classrooms afloat during COVID-19 is now helping us learn from the middle of the ocean.
 
