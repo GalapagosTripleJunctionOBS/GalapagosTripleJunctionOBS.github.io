@@ -30,7 +30,7 @@ During our shift, the ship feels like a hive of activity. At an ocean bottom sei
 By 2 p.m. our group wraps up, and the next shift takes over. The transition into “free time” at sea is unlike any free time on land. Some afternoons I sit out on deck with a book, lately a few of us have been diving into Circe, a great read when the ocean stretches endlessly in every direction, or I work quietly in the ship’s library. Other times I chat with the next group coming on shift to make sure everything is in order. More often than not, this is when I reach out to home. The internet is patchy, social media is blocked entirely (which is in many ways a great relief and wonderful for my productivity), but even a quick update goes a long way. My family and loved ones eagerly wait for any message, a little nervous but overwhelmingly proud. My partner has also been juggling the logistics of our recent move while I am away, which makes me extra grateful for the support that keeps things steady on land. Altogether, that network of encouragement feels like an anchor, keeping me steady while I am surrounded by water and far from shore.
 
 <figure> 
-  <img src="/assets/images/B2.png" alt="Work with a View" style="max-width: 70%; height: auto; display: block; margin: 1.5em auto;" /> 
+  <img src="/assets/images/B3.png" alt="Work with a View" style="max-width: 70%; height: auto; display: block; margin: 1.5em auto;" /> 
 </figure>
 
 
