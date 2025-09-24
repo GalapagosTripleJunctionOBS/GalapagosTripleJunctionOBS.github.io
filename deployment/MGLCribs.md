@@ -27,11 +27,11 @@ First things first, let me reassure you that the engine room is off-limits for t
 
 As we shuffle down the hall, we’ll first pass by the laundry room. Now, we could try to sneak a quick peek and see if there’s anyone, we know who’s currently doing laundry. 
 
-$${\color{lightblue}“Ahh, \space  Kavi, \space  anything \space  to \space  say \space  for \space  the \space  blog?” \space }$$	
+<font color="#89CFF0">“Ahh, Kavi, anything to say for the blog?”</font>
 
-$${\color{red}“No?” \space }$$	
+<font color="#FF2626">"No?"</font>
 
-$${\color{lightblue}“Cool \space cool. \space  We’ll \space  let \space  you \space  get \space   back \space  to \space  your \space  laundry \space  then."}$$	
+<font color="#89CFF0">“Cool cool. We’ll let you get back to your laundry then”. </font>
 
 Alright, moving on! As we step into the Day Room 203 (holds rooms 201-204), take note of how they’ve cleverly placed all the women far from the rest of the crew and right next to the laundry room. We are a giggly bunch, so it honestly makes sense.  
 Quick tour note: The first door in 203 (201, from left to right) belongs to Helin and Jess. Let’s see what they’re up to today! Oh, it’s a classic: a wild Jess, found reading in bed—nothing unusual here. People here take the book club seriously, and it so happens to be Jess’ current obsession. It’s serious business. 
@@ -63,17 +63,18 @@ Every day. With sustenance. That fuels the soul.
 
 Before the jealousy sets in, let me clarify–it’s valid. We eat well and do no cleanup afterwards. 
 
-$${\color{black}  *Click!* \space }$$	
+<font color="#00001A">*Click!*</font>
 
-$${\color{lightblue}“What \space are \space y’all \space doing \space to \space poor \space Bubbles?” }$$	
+<font color="#89CFF0">“What are y’all doing to poor Bubbles?”</font>
 
-$${\color{black} “We \space caught \space him \space making \space his \space way \space down \space to \space Vinni \space and \space he \space asked \space us \space to \space help \space him \space think \space of \space poses.”   }$$	
+<font color="#00001A">“We caught him making his way down to Vinni and he asked us to help him think of poses.” </font>
 
-$${\color{lightblue}“Why \space would \space he \space need \space poses?” }$$	
+<font color="#89CFF0">“Why would he need poses?” </font>
 
-$${\color{black} “We \space  don’t  \space know. \space  He  \space said \space  it \space  had  \space to \space  do  \space with  \space what  \space he  \space has  \space planned  \space for  \space his \space  meeting  \space with  \space Vinni…”  }$$	
+<font color="#00001A">“We don’t know. He said it had to do with what he has planned for his meeting with Vinni…” </font>
 
-$${\color{lightblue} “Hmm.  \space I  \space sure \space  hope  \space he’s  \space getting \space  us  \space that  \space special \space  scoop  \space and \space  not  \space just  \space goofing \space  off.”  }$$	
+<font color="#89CFF0">“Hmm. I sure hope he’s getting us that special scoop and not just goofing off.”  </font>
+
 
 Anyway, back to the food. 
 To the left of the serving station is a snack corner stocked with instant ramen, fresh pastries, cereal, and emergency saltines (shoutout to those fighting sea-sickness). With some folks working night shifts, meals can be missed, so these are crucial backups. Or just, you know, snacks. 
@@ -122,6 +123,93 @@ To the left of the main deck is the wet lab, home to most OBS setup tools and th
 This is survey central. Here, you’ll find Alan to the left, checking that the ping storage scripts are running smoothly. Dan is to the right of him, analyzing the Pac-Man survey map while contemplating the mysteries of time. PWR and sensitivity settings for OBS ranging seem to follow no logic, but thankfully the OBS techs keep us grounded. Dan, Alan, Hannah, and Tim: you’re the real MVPs. 
 
 We recently discovered some of the sonar circuit boards are stored here too! After a board imploded, science technicians Nick and Cody showed the night shifters how not all heroes wear capes.
+
+We recently discovered some of the sonar circuit boards are stored here too! After a board imploded, science technicians Nick and Cody showed the night shifters how not all heroes wear capes.
+
+* *Tchk* (walkie talkie static) *
+  
+*“Dry Lab-Engine, we need a couple more minutes before you make your way down.”*
+
+*“Roger, you need a couple more minutes.”*
+
+<figure> 
+  <img src="/assets/images/otherlocations.png" alt="The Rest" style="max-width: 90%; height: auto; display: block; margin: 1.5em auto;" /> 
+</figure>
+
+**The Rest (Yes, there’s more)**
+
+With time to spare, let’s take a lap. Starting at the back (front’s been claimed by the birds and let’s not talk about the smell). 
+
+Ah, the gym. It’s crucial to triple check the time before entering, especially around 3:30 PM, when the captain is usually in there. You do not want to disturb a man with a lot on his plate–is that Cate?
+
+*Oh hey, Cate! You got this!* Let’s leave so she can finish her workouts in peace.  
+
+Down past the Mess is the library, where we find another wild reader, Kenni, who’s also reading Circe. The library offers a full range of genres. And yes, they’ve correctly categorized Twilight. The first three as classical literature and the last as nonfiction. If you are ever in need of a rec, I’d go to Mike, our electrician and resident former English major.
+
+Just outside the library is the theater room. We’ve only used it a few times, we’ve watched Twisters (2024) and played Mario Kart once. The second and third mates have quarters nearby and we wouldn’t want to disrupt their rest. Still, we’ve been crushing movies in the Main Lab office anyway.
+
+* *Tchk* *
+
+*“Giselle-Engine, Bubble’s is ready to take over for a bit”*
+
+*“Roger, Bubbles is ready. I’ll head back down”*
+
+...
+
+<figure> 
+  <img src="/assets/images/Bubbles.png" alt="Bubbles" style="max-width: 90%; height: auto; display: block; margin: 1.5em auto;" /> 
+</figure>
+
+**Bubbles’ Secret Scoop (As told by Bubbles, the intrepid chicken adventurer)**
+
+Hi y’all! It’s me, Bubbles! Opus MCguinnes, chief cruise director, has let me tag along as his seafaring companion for over 20 years, and I figured it’s high time I take over the engine room. I’ve traveled to every continent except Antarctica, floated in more water samples than I can count, and served as moral support during many a deployment. So yes, I absolutely think I’m qualified. Vinni doesn’t quite agree. He thinks I’m just here for the photo op with the largest wrench (which, to be fair, I was). But while he was distracted, I managed to snag a few iconic shots: 
+
+
+* Heroically perched near the sewage door (smells like victory)
+* Traveling through time in a make-shift engine room time machine 
+* Winning "Employee of the Month" (self-awarded, obviously) 
+* And, of course, wielding the mighty wrench like I was born to turn bolts
+
+It was going swimmingly until Vinni walked in and caught me mid-command of the throttle. After a very stern quack-ing to, he called Josh over the radio. Moments later, I was gently but firmly removed by Crystal and Anant from my post and sentenced to time-out. 
+
+**Current status:** in jail (a.k.a. under a glass dome in the Dry Lab, made from half an OBS casing). I’m not mad–every good captain has to be humbled now and then. Besides, I’ve got a great view of the live cast and plenty of company during night shift. 
+
+<figure> 
+  <img src="/assets/images/Prison.png" alt="BubblesImprisoned" style="max-width: 90%; height: auto; display: block; margin: 1.5em auto;" /> 
+</figure>
+
+Long live the Bubbles!
+
+<figure> 
+  <img src="/assets/images/Mustard.png" alt="Muster Deck" style="max-width: 90%; height: auto; display: block; margin: 1.5em auto;" /> 
+</figure>
+
+**The MUSTARD Deck**
+
+Well, that was almost a catastrophe. Let's close out this whirlwind tour on a calm note.
+
+Here we are at the MUSTER Deck, our designated emergency muster station and a peaceful little corner of the ship that offers panoramic views of the open ocean. Just a few steps beyond this is the bridge, where the captain and officers keep us on course–we don’t go there unless invited, and only then in our best behavior.
+
+The MUSTER deck, though, is a favorite hangout. This spot has a special kind of magic. Whether it’s gathering for a safety drill, trying to catch a glimpse of a green flash at sunset, or leaning over the rail during night shift just to feel the breeze and hear the waves. Some nights, we come here just to stargaze. It’s one of the few places you can still see the Milky Way in all its glory, unobstructed by city lights.
+
+**Until Next Time...**
+
+And that, dearest readers, concludes your official tour of MGL Cribs!
+
+From laundry room interviews to engine room infiltrations (looking at you, Bubbles), we hope this gave you a glimpse of the real heart of life aboard a research vessel: the people, the quirks, the odd comfort of routine, and the adventure that hums behind every hallway.
+
+Thanks for joining me on this tour. I hear there’s much more fun to come. Until then, keep it salty.
+
+Sea you soon,
+
+Giselle
+
+Edited by Kenni <3
+
+p.s (from Bubbles)
+
+I’ve escaped from dome’s constraints! And in my freedom, I wanted to send thanks to Vinni for allowing me into the engine room. 
+
 
 
 
