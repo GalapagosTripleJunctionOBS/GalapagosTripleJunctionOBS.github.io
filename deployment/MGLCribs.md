@@ -27,11 +27,11 @@ First things first, let me reassure you that the engine room is off-limits for t
 
 As we shuffle down the hall, we’ll first pass by the laundry room. Now, we could try to sneak a quick peek and see if there’s anyone, we know who’s currently doing laundry. 
 
-<font color="#89CFF0">“Ahh, Kavi, anything to say for the blog?”</font> <br>
+<i><font color="#89CFF0">“Ahh, Kavi, anything to say for the blog?”</font></i> <br>
 
-<font color="#FF2626">"No?"</font> <br>
+<i><font color="#FF2626">"No?"</font></i> <br>
 
-<font color="#89CFF0">“Cool cool. We’ll let you get back to your laundry then”. </font> <br>
+<i><font color="#89CFF0">“Cool cool. We’ll let you get back to your laundry then”. </font></i> <br>
 
 Alright, moving on! As we step into the Day Room 203 (holds rooms 201-204), take note of how they’ve cleverly placed all the women far from the rest of the crew and right next to the laundry room. We are a giggly bunch, so it honestly makes sense.  
 Quick tour note: The first door in 203 (201, from left to right) belongs to Helin and Jess. Let’s see what they’re up to today! Oh, it’s a classic: a wild Jess, found reading in bed—nothing unusual here. People here take the book club seriously, and it so happens to be Jess’ current obsession. It’s serious business. 
