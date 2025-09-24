@@ -16,7 +16,7 @@ permalink: /deployment/MGLCribs/
 
 **Dearest Readers,**
 
-Welcome to MGL Cribs! I’m your host, Giselle, and this post is your all-access tour of our humble abode abroad this research vessel for the month. Prepare to shuffle, slide, and sometimes trip through the tight, row-motion-filled halls as we move from one quarter to another. Don’t worry, you’ll be getting a full peek at everything from our cozy quarters to the functional (and occasionally goofy) spaces where we work. 
+Welcome to MGL Cribs! I’m your host, Giselle, and this post is your all-access tour of our humble abode aboard this research vessel for the month. Prepare to shuffle, slide, and sometimes trip through the tight, row-motion-filled halls as we move from one quarter to another. Don’t worry, you’ll be getting a full peek at everything from our cozy quarters to the functional (and occasionally goofy) spaces where we work. 
 First things first, let me reassure you that the engine room is off-limits for this post. Will’s blog post from earlier goes into detail about the mysterious space (if you’re brave enough to read about it), and frankly, I’ll leave the engine talk to the experts. However, don’t fret–our good friend Bubbles has promised a special scoop after making a deal with Vinni, our first assistant engineer. Stay tuned for that! 
 
 <figure> 
@@ -27,11 +27,11 @@ First things first, let me reassure you that the engine room is off-limits for t
 
 As we shuffle down the hall, we’ll first pass by the laundry room. Now, we could try to sneak a quick peek and see if there’s anyone, we know who’s currently doing laundry. 
 
-<font color="#89CFF0">“Ahh, Kavi, anything to say for the blog?”</font>
+<font color="#89CFF0">“Ahh, Kavi, anything to say for the blog?”</font> <br>
 
-<font color="#FF2626">"No?"</font>
+<font color="#FF2626">"No?"</font> <br>
 
-<font color="#89CFF0">“Cool cool. We’ll let you get back to your laundry then”. </font>
+<font color="#89CFF0">“Cool cool. We’ll let you get back to your laundry then”. </font> <br>
 
 Alright, moving on! As we step into the Day Room 203 (holds rooms 201-204), take note of how they’ve cleverly placed all the women far from the rest of the crew and right next to the laundry room. We are a giggly bunch, so it honestly makes sense.  
 Quick tour note: The first door in 203 (201, from left to right) belongs to Helin and Jess. Let’s see what they’re up to today! Oh, it’s a classic: a wild Jess, found reading in bed—nothing unusual here. People here take the book club seriously, and it so happens to be Jess’ current obsession. It’s serious business. 
@@ -63,17 +63,17 @@ Every day. With sustenance. That fuels the soul.
 
 Before the jealousy sets in, let me clarify–it’s valid. We eat well and do no cleanup afterwards. 
 
-<font color="#00001A">*Click!*</font>
+<font color="#00001A">*Click!*</font> <br>
 
-<font color="#89CFF0">“What are y’all doing to poor Bubbles?”</font>
+<font color="#89CFF0">“What are y’all doing to poor Bubbles?”</font> <br>
 
-<font color="#00001A">“We caught him making his way down to Vinni and he asked us to help him think of poses.” </font>
+<font color="#00001A">“We caught him making his way down to Vinni and he asked us to help him think of poses.” </font> <br>
 
-<font color="#89CFF0">“Why would he need poses?” </font>
+<font color="#89CFF0">“Why would he need poses?” </font> <br>
 
-<font color="#00001A">“We don’t know. He said it had to do with what he has planned for his meeting with Vinni…” </font>
+<font color="#00001A">“We don’t know. He said it had to do with what he has planned for his meeting with Vinni…” </font> <br>
 
-<font color="#89CFF0">“Hmm. I sure hope he’s getting us that special scoop and not just goofing off.”  </font>
+<font color="#89CFF0">“Hmm. I sure hope he’s getting us that special scoop and not just goofing off.”  </font> <br>
 
 
 Anyway, back to the food. 
@@ -92,7 +92,7 @@ As we head out of the Mess, you’ll spot the freezer, filled with ice cream, th
   <img src="/assets/images/MainLab.png" alt="Main Lab" style="max-width: 90%; height: auto; display: block; margin: 1.5em auto;" /> 
 </figure>
 
-**The Main Lab: Where ½  the Magic Happens **
+**The Main Lab: Where ½  the Magic Happens**
 
 As you step in, you’ll be greeted by a wall of glowing monitors. They show everything from navigation data to sonar maps. 
 
@@ -108,7 +108,7 @@ For that, let’s suit up in PPE and head to the Main Deck.
   <img src="/assets/images/MainDeck.png" alt="Main Deck" style="max-width: 90%; height: auto; display: block; margin: 1.5em auto;" /> 
 </figure>
 
-**Main deck (the other ½): **
+**Main deck (the other ½):**
 
 Hard hats + tropical humidity = not the best combo. But safety first, and the vest and hats make a great shield from bird excrement (speaking from experience, unfortunately). 
 
@@ -118,7 +118,7 @@ Back on the main deck, we’ve got a nearly ready OBS. Everything is set up exce
 
 To the left of the main deck is the wet lab, home to most OBS setup tools and the entry point to the Dry Lab.
 
-**Dry Lab (Top Left photos) **
+**Dry Lab (Top Left photos)**
 
 This is survey central. Here, you’ll find Alan to the left, checking that the ping storage scripts are running smoothly. Dan is to the right of him, analyzing the Pac-Man survey map while contemplating the mysteries of time. PWR and sensitivity settings for OBS ranging seem to follow no logic, but thankfully the OBS techs keep us grounded. Dan, Alan, Hannah, and Tim: you’re the real MVPs. 
 
@@ -126,7 +126,7 @@ We recently discovered some of the sonar circuit boards are stored here too! Aft
 
 We recently discovered some of the sonar circuit boards are stored here too! After a board imploded, science technicians Nick and Cody showed the night shifters how not all heroes wear capes.
 
-* *Tchk* (walkie talkie static) *
+**Tchk* (walkie talkie static)*
   
 *“Dry Lab-Engine, we need a couple more minutes before you make your way down.”*
 
