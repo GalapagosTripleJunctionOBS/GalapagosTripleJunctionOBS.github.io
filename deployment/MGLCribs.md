@@ -89,7 +89,7 @@ Important cultural fact: chocolate milk after dinner is revered by many onboard.
 As we head out of the Mess, you’ll spot the freezer, filled with ice cream, that keeps you cool near the equator. The lineup changes often, but lately it includes ice cream sandwiches, Blue Bunny, and other frozen treasures. 
 
 <figure> 
-  <img src="/assets/images/MainLab.png" alt="Main Lab" style="max-width: 90%; height: auto; display: block; margin: 1.5em auto;" /> 
+  <img src="/assets/images/MainLab.png" alt="Main Lab" style="max-width: 100%; height: auto; display: block; margin: 1.5em auto;" /> 
 </figure>
 
 **The Main Lab: Where ½  the Magic Happens**
@@ -105,7 +105,7 @@ The monitors display sonar feeds, navigational info, and camera footage from aro
 For that, let’s suit up in PPE and head to the Main Deck.
 
 <figure> 
-  <img src="/assets/images/MainDeck.png" alt="Main Deck" style="max-width: 90%; height: auto; display: block; margin: 1.5em auto;" /> 
+  <img src="/assets/images/MainDeck.png" alt="Main Deck" style="max-width: 100%; height: auto; display: block; margin: 1.5em auto;" /> 
 </figure>
 
 **Main deck (the other ½):**
@@ -126,14 +126,14 @@ We recently discovered some of the sonar circuit boards are stored here too! Aft
 
 We recently discovered some of the sonar circuit boards are stored here too! After a board imploded, science technicians Nick and Cody showed the night shifters how not all heroes wear capes.
 
-* \*Tchk\* (walkie talkie static)*
+**Tchk** *(walkie talkie static)*
   
 *“Dry Lab-Engine, we need a couple more minutes before you make your way down.”*
 
 *“Roger, you need a couple more minutes.”*
 
 <figure> 
-  <img src="/assets/images/otherlocations.png" alt="The Rest" style="max-width: 90%; height: auto; display: block; margin: 1.5em auto;" /> 
+  <img src="/assets/images/otherlocations.png" alt="The Rest" style="max-width: 100%; height: auto; display: block; margin: 1.5em auto;" /> 
 </figure>
 
 **The Rest (Yes, there’s more)**
@@ -148,7 +148,7 @@ Down past the Mess is the library, where we find another wild reader, Kenni, who
 
 Just outside the library is the theater room. We’ve only used it a few times, we’ve watched Twisters (2024) and played Mario Kart once. The second and third mates have quarters nearby and we wouldn’t want to disrupt their rest. Still, we’ve been crushing movies in the Main Lab office anyway.
 
-* \*Tchk* *
+**Tchk** 
 
 *“Giselle-Engine, Bubble’s is ready to take over for a bit”*
 
@@ -157,7 +157,7 @@ Just outside the library is the theater room. We’ve only used it a few times, 
 ...
 
 <figure> 
-  <img src="/assets/images/Bubbles.png" alt="Bubbles" style="max-width: 90%; height: auto; display: block; margin: 1.5em auto;" /> 
+  <img src="/assets/images/Bubbles.png" alt="Bubbles" style="max-width: 100%; height: auto; display: block; margin: 1.5em auto;" /> 
 </figure>
 
 
@@ -176,13 +176,13 @@ It was going swimmingly until Vinni walked in and caught me mid-command of the t
 **Current status:** in jail (a.k.a. under a glass dome in the Dry Lab, made from half an OBS casing). I’m not mad–every good captain has to be humbled now and then. Besides, I’ve got a great view of the live cast and plenty of company during night shift. 
 
 <figure> 
-  <img src="/assets/images/Prison.png" alt="BubblesImprisoned" style="max-width: 90%; height: auto; display: block; margin: 1.5em auto;" /> 
+  <img src="/assets/images/Prison.png" alt="BubblesImprisoned" style="max-width: 75%; height: auto; display: block; margin: 1.5em auto;" /> 
 </figure>
 
 <center> Long live the Bubbles! </center>
 
 <figure> 
-  <img src="/assets/images/Mustard.png" alt="Muster Deck" style="max-width: 90%; height: auto; display: block; margin: 1.5em auto;" /> 
+  <img src="/assets/images/Mustard.png" alt="Muster Deck" style="max-width: 100%; height: auto; display: block; margin: 1.5em auto;" /> 
 </figure>
 
 **The MUSTARD Deck**
