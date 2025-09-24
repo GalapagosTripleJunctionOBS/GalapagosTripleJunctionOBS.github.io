@@ -212,7 +212,7 @@ p.s (from Bubbles)
 I’ve escaped from dome’s constraints! And in my freedom, I wanted to send thanks to Vinni for allowing me into the engine room. 
 
 
-<video width="640" autoplay>
+<video width="640" controls>
   <source src="/assets/images/MGLCribs_blog_compressed.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
