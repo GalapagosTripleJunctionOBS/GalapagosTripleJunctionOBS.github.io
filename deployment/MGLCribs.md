@@ -63,7 +63,7 @@ Every day. With sustenance. That fuels the soul.
 
 Before the jealousy sets in, let me clarify–it’s valid. We eat well and do no cleanup afterwards. 
 
-$${\color{black} \textbf{ *Click!* } \space }$$	
+$${\color{black}  *Click!* \space }$$	
 
 $${\color{lightblue}“What \space are \space y’all \space doing \space to \space poor \space Bubbles?” }$$	
 
