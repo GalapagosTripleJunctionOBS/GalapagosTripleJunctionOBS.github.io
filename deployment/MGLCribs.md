@@ -160,7 +160,8 @@ Just outside the library is the theater room. We’ve only used it a few times, 
   <img src="/assets/images/Bubbles.png" alt="Bubbles" style="max-width: 90%; height: auto; display: block; margin: 1.5em auto;" /> 
 </figure>
 
-**Bubbles’ Secret Scoop (As told by Bubbles, the intrepid chicken adventurer)**
+
+  **Bubbles’ Secret Scoop (As told by Bubbles, the intrepid chicken adventurer)**
 
 Hi y’all! It’s me, Bubbles! Opus MCguinnes, chief cruise director, has let me tag along as his seafaring companion for over 20 years, and I figured it’s high time I take over the engine room. I’ve traveled to every continent except Antarctica, floated in more water samples than I can count, and served as moral support during many a deployment. So yes, I absolutely think I’m qualified. Vinni doesn’t quite agree. He thinks I’m just here for the photo op with the largest wrench (which, to be fair, I was). But while he was distracted, I managed to snag a few iconic shots: 
 
@@ -178,7 +179,7 @@ It was going swimmingly until Vinni walked in and caught me mid-command of the t
   <img src="/assets/images/Prison.png" alt="BubblesImprisoned" style="max-width: 90%; height: auto; display: block; margin: 1.5em auto;" /> 
 </figure>
 
-Long live the Bubbles!
+<center> Long live the Bubbles! </center>
 
 <figure> 
   <img src="/assets/images/Mustard.png" alt="Muster Deck" style="max-width: 90%; height: auto; display: block; margin: 1.5em auto;" /> 
@@ -211,8 +212,10 @@ p.s (from Bubbles)
 I’ve escaped from dome’s constraints! And in my freedom, I wanted to send thanks to Vinni for allowing me into the engine room. 
 
 
-
-
+<video width="640" autoplay>
+  <source src="/assets/images/MGLCribs_blog_compressed.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 
 <div style="margin-top: 2em;">
