@@ -211,14 +211,12 @@ p.s (from Bubbles)
 I’ve escaped from dome’s constraints! And in my freedom, I wanted to send thanks to Vinni for allowing me into the engine room. 
 
 <video width="320" height="240" autoplay>
-  <source src="MGLCribs_blog_compressed.mp4" type="video/mp4">
+  <source src="/assets/images/MGLCribs_blog_compressed.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 
-<figure> 
-  <img src="/assets/images/Mustard.png" alt="Muster Deck" style="max-width: 90%; height: auto; display: block; margin: 1.5em auto;" /> 
-</figure>
+
 
 <div style="margin-top: 2em;">
   <p><strong>Share this page:</strong></p>
