@@ -12,7 +12,7 @@ permalink: /deployment/MGLCribs/
   }
 </style>
 
-# MGL Cribs
+# MGL *Cribs*
 
 **Dearest Readers,**
 
@@ -126,7 +126,7 @@ We recently discovered some of the sonar circuit boards are stored here too! Aft
 
 We recently discovered some of the sonar circuit boards are stored here too! After a board imploded, science technicians Nick and Cody showed the night shifters how not all heroes wear capes.
 
-**Tchk* (walkie talkie static)*
+* \*Tchk\* (walkie talkie static)*
   
 *“Dry Lab-Engine, we need a couple more minutes before you make your way down.”*
 
@@ -148,7 +148,7 @@ Down past the Mess is the library, where we find another wild reader, Kenni, who
 
 Just outside the library is the theater room. We’ve only used it a few times, we’ve watched Twisters (2024) and played Mario Kart once. The second and third mates have quarters nearby and we wouldn’t want to disrupt their rest. Still, we’ve been crushing movies in the Main Lab office anyway.
 
-* *Tchk* *
+* \*Tchk* *
 
 *“Giselle-Engine, Bubble’s is ready to take over for a bit”*
 
