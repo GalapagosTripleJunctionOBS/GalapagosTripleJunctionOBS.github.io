@@ -210,8 +210,8 @@ p.s (from Bubbles)
 
 I’ve escaped from dome’s constraints! And in my freedom, I wanted to send thanks to Vinni for allowing me into the engine room. 
 
-https://github.com/GalapagosTripleJunctionOBS/GalapagosTripleJunctionOBS.github.io/blob/main/assets/images/MGLCribs_blog_compressed.mp4
-
+[https://github.com/GalapagosTripleJunctionOBS/GalapagosTripleJunctionOBS.github.io/blob/main/assets/images/MGLCribs_blog_compressed.mp4
+](https://github.com/user-attachments/assets/c138d1d8-759f-4b35-a38c-91ccedd1d63b)
 
 <div style="margin-top: 2em;">
   <p><strong>Share this page:</strong></p>
