@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog Posts
-permalink: /deployment/MTVCrib/
+permalink: /deployment/MGLCribs/
 ---
 
 
@@ -12,7 +12,7 @@ permalink: /deployment/MTVCrib/
   }
 </style>
 
-# MTV Crib - R.V Marcus Langseth
+# MGL Cribs - R.V Marcus Langseth
 
 
 <div style="margin-top: 2em;">
