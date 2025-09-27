@@ -15,21 +15,21 @@ permalink: /deployment/LifeAboard/
 # Life Aboard
 
 <p style="text-align:center">
-  Grand is the ocean before me
-So vast is the sea, intimidatingly—
-I once feared the thought of mere me
-Floating through the ocean, endlessly…
+Grand is the ocean before me <br>
+So vast is the sea, intimidatingly— <br>
+I once feared the thought of mere me <br>
+Floating through the ocean, endlessly… <br>
 
-Now I see beauty in the deepest blues,
-And the wildlife as my heart’s muse.
-Seabirds sail across the sky;
-Among them, my soul can fly.
+Now I see beauty in the deepest blues, <br>
+And the wildlife as my heart’s muse. <br>
+Seabirds sail across the sky; <br>
+Among them, my soul can fly. <br>
 </p>
 
 
 
 <figure> 
-  <img src="/assets/images/LifeAboard_Img1.png" alt="Bird Rescue" style="max-width: 65%; height: auto; display: block; margin: 1.5em auto;" /> 
+  <img src="/assets/images/LifeAboard_Img1.png" alt="Bird Rescue" style="max-width: 95%; height: auto; display: block; margin: 1.5em auto;" /> 
   <figcaption style="text-align: center;">(Photo Credits: Kenni Godana).</figcaption> 
 </figure>
 
@@ -67,7 +67,7 @@ were relatively close to the drop location, that experience demonstrated to myse
 had learned since I was able to think fast and swiftly assist the technicians.
 
 <figure> 
-  <img src="/assets/images/LifeAboard_Img2.png" alt="OBS Assembly" style="max-width: 65%; height: auto; display: block; margin: 1.5em auto;" /> 
+  <img src="/assets/images/LifeAboard_Img2.png" alt="OBS Assembly" style="max-width: 95%; height: auto; display: block; margin: 1.5em auto;" /> 
   <figcaption style="text-align: center;">Left: Assisting Alan (WHOI Research Engineer) with OBS assembly (Photo Credit: Kavi Gollamudi). Right: Fully assembled WHOI Broadband OBS (BBOBS; Photo Credit: Crystal Luna).</figcaption> 
 </figure>
 
@@ -78,7 +78,7 @@ to the mapping of previously unmapped seafloor, and in a significantly better re
 satellite data can provide.
 
 <figure> 
-  <img src="/assets/images/LifeAboard_Img3.png" alt="Qimera" style="max-width: 65%; height: auto; display: block; margin: 1.5em auto;" /> 
+  <img src="/assets/images/LifeAboard_Img3.png" alt="Qimera" style="max-width: 95%; height: auto; display: block; margin: 1.5em auto;" /> 
   <figcaption style="text-align: center;">Processing multibeam data using Qimera. The seafloor profile is vertically exaggerated. Cool colors (purple-blues-green) represent lower reliefs while warm colors (yellow-orange-red) represent higher reliefs (Photo credit: Josh Russell).</figcaption> 
 </figure>
 
@@ -89,14 +89,14 @@ assemble and deploy the OBSs. Looking beyond that area, vast darkness consumes a
 eye can see. It brings a humbling sense of the reality of where we are.
 
 <p style="text-align:center">
-The sky meets the sea, endlessly
-Darkness is all I see in front of me…
+The sky meets the sea, endlessly <br>
+Darkness is all I see in front of me… <br>
 </p>
 
 
 
 <figure> 
-  <img src="/assets/images/LifeAboard_Img4.png" alt="Darkness" style="max-width: 65%; height: auto; display: block; margin: 1.5em auto;" /> 
+  <img src="/assets/images/LifeAboard_Img4.png" alt="Darkness" style="max-width: 95%; height: auto; display: block; margin: 1.5em auto;" /> 
   <figcaption style="text-align: center;"> (Photo Credit: Crystal Luna).</figcaption> 
 </figure>
 
@@ -110,7 +110,7 @@ otherwise. Everyone contributes to the success of the mission. Every person is s
 working together, we do more than cooperate; we empower one another.
 
 <figure> 
-  <img src="/assets/images/LifeAboard_Img5.png" alt="Qimera" style="max-width: 65%; height: auto; display: block; margin: 1.5em auto;" /> 
+  <img src="/assets/images/LifeAboard_Img5.png" alt="Qimera" style="max-width: 95%; height: auto; display: block; margin: 1.5em auto;" /> 
   <figcaption style="text-align: center;">Sunset (Photo Credit: Crystal Luna).</figcaption> 
 </figure>
 
@@ -118,16 +118,12 @@ working together, we do more than cooperate; we empower one another.
 Closing with a poem: 
 
 <p style="text-align:center">
-“Timelines”
-
-Lives intersect along peculiar paths.
-Though, consistency is yet to last—
-Share a point, a place in time;
-briefly, converging along a line…
-
+“Timelines” <br>
+Lives intersect along peculiar paths. <br>
+Though, consistency is yet to last— <br>
+Share a point, a place in time; <br>
+briefly, converging along a line… <br>
 </p>
-
-
 
 Signing off,
 
