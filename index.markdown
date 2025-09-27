@@ -136,6 +136,7 @@ title: Galapagos Triple Junction OBS Deployment
       <a href="/deployment/FoodatSea">Food at Sea</a>
       <a href="/deployment/BalancingLifeatSeaandLifeatHome"> Balancing Life at Sea and Life at Home </a>
       <a href="/deployment/MGLCribs"> MGL Cribs</a>
+      <a href="/deployment/LifeAboard"> Life Aboard</a>
 
      
     </div>
