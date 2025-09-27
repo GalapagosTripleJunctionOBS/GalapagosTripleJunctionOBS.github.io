@@ -14,6 +14,20 @@ permalink: /deployment/LifeAboard/
 
 # Life Aboard
 
+<p style="text-align:center">
+  Grand is the ocean before me
+So vast is the sea, intimidatingly—
+I once feared the thought of mere me
+Floating through the ocean, endlessly…
+
+Now I see beauty in the deepest blues,
+And the wildlife as my heart’s muse.
+Seabirds sail across the sky;
+Among them, my soul can fly.
+</p>
+
+
+
 <figure> 
   <img src="/assets/images/LifeAboard_Img1.png" alt="Bird Rescue" style="max-width: 65%; height: auto; display: block; margin: 1.5em auto;" /> 
   <figcaption style="text-align: center;">(Photo Credits: Kenni Godana).</figcaption> 
@@ -74,6 +88,19 @@ fortune of seeing jellyfish, flying fish, and eels that are attracted to the lig
 assemble and deploy the OBSs. Looking beyond that area, vast darkness consumes as far as the
 eye can see. It brings a humbling sense of the reality of where we are.
 
+<p style="text-align:center">
+The sky meets the sea, endlessly
+Darkness is all I see in front of me…
+</p>
+
+
+
+<figure> 
+  <img src="/assets/images/LifeAboard_Img4.png" alt="Darkness" style="max-width: 65%; height: auto; display: block; margin: 1.5em auto;" /> 
+  <figcaption style="text-align: center;"> (Photo Credit: Crystal Luna).</figcaption> 
+</figure>
+
+
 I don’t want to end on a dark note. There are multiple perspectives and endless aspects to
 appreciate. I’ve seen some of the most beautiful sunsets, have heard some of the most
 interesting stories from technicians, and shared in light-hearted conversations with the crew. I
@@ -83,11 +110,23 @@ otherwise. Everyone contributes to the success of the mission. Every person is s
 working together, we do more than cooperate; we empower one another.
 
 <figure> 
-  <img src="/assets/images/LifeAboard_Img3.png" alt="Qimera" style="max-width: 65%; height: auto; display: block; margin: 1.5em auto;" /> 
+  <img src="/assets/images/LifeAboard_Img5.png" alt="Qimera" style="max-width: 65%; height: auto; display: block; margin: 1.5em auto;" /> 
   <figcaption style="text-align: center;">Sunset (Photo Credit: Crystal Luna).</figcaption> 
 </figure>
 
+
 Closing with a poem: 
+
+<p style="text-align:center">
+“Timelines”
+
+Lives intersect along peculiar paths.
+Though, consistency is yet to last—
+Share a point, a place in time;
+briefly, converging along a line…
+
+</p>
+
 
 
 Signing off,
