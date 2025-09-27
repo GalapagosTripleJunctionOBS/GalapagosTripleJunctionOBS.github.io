@@ -15,7 +15,7 @@ permalink: /deployment/LifeAboard/
 # Life Aboard
 
 <p style="text-align:center">
-Grand is the ocean before me <br>
+<i>Grand is the ocean before me <br>
 So vast is the sea, intimidatingly— <br>
 I once feared the thought of mere me <br>
 Floating through the ocean, endlessly… <br>
@@ -23,7 +23,7 @@ Floating through the ocean, endlessly… <br>
 Now I see beauty in the deepest blues, <br>
 And the wildlife as my heart’s muse. <br>
 Seabirds sail across the sky; <br>
-Among them, my soul can fly. <br>
+Among them, my soul can fly. <br> </i>
 </p>
 
 
@@ -89,8 +89,8 @@ assemble and deploy the OBSs. Looking beyond that area, vast darkness consumes a
 eye can see. It brings a humbling sense of the reality of where we are.
 
 <p style="text-align:center">
-The sky meets the sea, endlessly <br>
-Darkness is all I see in front of me… <br>
+<i>The sky meets the sea, endlessly <br>
+Darkness is all I see in front of me… <br> </i>
 </p>
 
 
@@ -118,11 +118,11 @@ working together, we do more than cooperate; we empower one another.
 Closing with a poem: 
 
 <p style="text-align:center">
-“Timelines” <br>
+<i>“Timelines” <br>
 Lives intersect along peculiar paths. <br>
 Though, consistency is yet to last— <br>
 Share a point, a place in time; <br>
-briefly, converging along a line… <br>
+briefly, converging along a line… <br> </i>
 </p>
 
 Signing off,
