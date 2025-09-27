@@ -14,6 +14,12 @@ permalink: /deployment/LifeAboard/
 
 # Life Aboard
 
+<figure> 
+  <img src="/assets/images/LifeAboard_Img1.png" alt="Bird Rescue" style="max-width: 65%; height: auto; display: block; margin: 1.5em auto;" /> 
+  <figcaption style="text-align: center;">(Photo Credits: Kenni Godana).</figcaption> 
+</figure>
+
+
 I had the honor of helping a bird (Tahiti petrel). As Kenni and I walked to the stern to watch the
 sunset, she spotted a trapped bird flailing between a beam and a large spool that holds
 streamers. I reached down and lifted the bird out. After resting with us a while, Dan (WHOI
@@ -46,10 +52,22 @@ issue during a deployment required us to quickly reassemble a new OBS package. B
 were relatively close to the drop location, that experience demonstrated to myself how much I
 had learned since I was able to think fast and swiftly assist the technicians.
 
+<figure> 
+  <img src="/assets/images/LifeAboard_Img2.png" alt="OBS Assembly" style="max-width: 65%; height: auto; display: block; margin: 1.5em auto;" /> 
+  <figcaption style="text-align: center;">Left: Assisting Alan (WHOI Research Engineer) with OBS assembly (Photo Credit: Kavi Gollamudi). Right: Fully assembled WHOI Broadband OBS (BBOBS; Photo Credit: Crystal Luna).</figcaption> 
+</figure>
+
+
 When I’m not helping with the OBSs, I’m usually processing multibeam data which mostly
 consists of removing scatter. While a somewhat tedious task, the bigger picture is contributing
 to the mapping of previously unmapped seafloor, and in a significantly better resolution than
 satellite data can provide.
+
+<figure> 
+  <img src="/assets/images/LifeAboard_Img3.png" alt="Qimera" style="max-width: 65%; height: auto; display: block; margin: 1.5em auto;" /> 
+  <figcaption style="text-align: center;">Processing multibeam data using Qimera. The seafloor profile is vertically exaggerated. Cool colors (purple-blues-green) represent lower reliefs while warm colors (yellow-orange-red) represent higher reliefs (Photo credit: Josh Russell).</figcaption> 
+</figure>
+
 
 I’m on the 14:00-22:00 shift, and most of our deployments have been at night. We’ve had the
 fortune of seeing jellyfish, flying fish, and eels that are attracted to the lights on deck where we
@@ -63,6 +81,14 @@ may not be the most talkative person, but I appreciate good company. The inclusi
 acceptance among people from diverse backgrounds provides enrichment that is unattainable
 otherwise. Everyone contributes to the success of the mission. Every person is significant. By
 working together, we do more than cooperate; we empower one another.
+
+<figure> 
+  <img src="/assets/images/LifeAboard_Img3.png" alt="Qimera" style="max-width: 65%; height: auto; display: block; margin: 1.5em auto;" /> 
+  <figcaption style="text-align: center;">Sunset (Photo Credit: Crystal Luna).</figcaption> 
+</figure>
+
+Closing with a poem: 
+
 
 Signing off,
 
