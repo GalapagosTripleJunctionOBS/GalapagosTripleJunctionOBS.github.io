@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog Posts
-permalink: /deployment/TheseAreAFewofMyFavoriteThings/
+permalink: /deployment/TheseAreAFewofOurFavoriteThings/
 ---
 
 
