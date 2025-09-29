@@ -41,7 +41,7 @@ the boat)
 - Crystal - Being out on deck to watch the wildlife and assembling the Ocean Bottom Seismometers (OBS) 🔩
 - Cris - Talking to the bridge (where the captains and mates control the ship) on the radio to tell them that we completed the survey and we can start moving to the next OBS deployment station 📻
 - Kavi - Not having to do any dishes ️🍴
-- Jess - Sitting out on the muster deck even though it’s been compromised by bird poop 🐦
+- Jess - Sitting out on the muster deck even though it’s been compromised by bird poop 🐦‍⬛
 - Anant - Looking out the window and seeing the birds swoop down and catch helpless flying fish 🐟
 
 **RETURNING BOAT TRAVELERS:**
