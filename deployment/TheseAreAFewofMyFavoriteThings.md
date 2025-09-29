@@ -12,6 +12,27 @@ permalink: /deployment/TheseAreAFewofMyFavoriteThings/
   }
 </style>
 
+# These Are a Few of *Our* Favorite Things
+
+When I first considered the idea of being on a boat for a month, it seemed to be a very
+daunting experience. My longest trip on water had been approximately three hours maximum, on
+a ferry between islands. I was incredibly unsure what to expect about being on a boat of this size,
+spending a month on the water with no land in sight, or spending so much time (and in very close
+quarters) with people I hadn’t met before. Needless to say, I have been enjoying myself
+immensely and have loved getting to know the rest of the science party and ship crew. My
+favorite thing has definitely turned out to be the connections I have formed and the peacefulness
+being away from on-land responsibilities has brought. I tend to be a very shy person, and in the
+spirit of trying new things, I really wanted to push myself out of my comfort zone for this blog
+and try to start a conversation with everybody aboard the Langseth. So what better way to do this
+then ask them what their favorite thing is about being on a boat? The following is a list of
+(almost) everyone I’ve spoken to and what they enjoy most about being on a ship.
+
+I have split the list into three sections to explore how length of time at sea alters what
+becomes a favorite thing on the boat. The sections are as follows: those who are on a long boat
+trip for the first time, those who have been on another research cruise in the past, and those who
+have spent a lot of time on deck in the open seas. (Note: all names and positions have been
+selected by each individual and may or may not be accurate representations of what they do on
+the boat)
 
 
 
