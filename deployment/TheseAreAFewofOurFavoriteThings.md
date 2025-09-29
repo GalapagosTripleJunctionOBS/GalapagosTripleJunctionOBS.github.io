@@ -38,23 +38,23 @@ the boat)
 
 - Kenni: The library 📚
 - Giselle - Post chocolate-milk loopy time in the evenings 🍫🥛
-- Crystal - Being out on deck to watch the wildlife and assembling the Ocean Bottom Seismometers (OBS) ‍‍‍‍:scientist:
+- Crystal - Being out on deck to watch the wildlife and assembling the Ocean Bottom Seismometers (OBS) 🔩
 - Cris - Talking to the bridge (where the captains and mates control the ship) on the radio to tell them that we completed the survey and we can start moving to the next OBS deployment station 📻
-- Kavi - Not having to do any dishes ️:plate_with_cutlery:
-- Jess - Sitting out on the muster deck even though it’s been compromised by bird poop ‍⬛
+- Kavi - Not having to do any dishes ️🍴
+- Jess - Sitting out on the muster deck even though it’s been compromised by bird poop 🐦
 - Anant - Looking out the window and seeing the birds swoop down and catch helpless flying fish 🐟
 
 **RETURNING BOAT TRAVELERS:**
 - William David DePalma Frazer - Most of the sunsets and sunrises are very pretty 🌅
-- Josh - Being disconnected from all of the typical responsibilities we have on land and being able to focus only on science, like a little science vacation ‍
-- Cate BiggestDog McLeod - Galley gabs ‍♀️
-- Dilini - The consistent rocking of the boat 🚢
+- Josh - Being disconnected from all of the typical responsibilities we have on land and being able to focus only on science, like a little science vacation:	🧑‍🏫
+- Cate BiggestDog McLeod - Galley gabs 💬
+- Dilini - The consistent rocking of the boat ⛴️
 
 **BOAT CONNOISSEURS:**
 - Captain - It is much easier to make time for exercise while on the boat 🏃
 - Dave - The travel and ability to see new places and how people live in those places. It’s also great to meet interesting new people, and to see my wife (Joselyn) everyday 🤗
 - Joselyn (Second Mate, Ship’s Navigator) - Hanging out with my husband (Dave) and taking in
-God’s beauty ️
+God’s beauty ️🌌
 - Matthew Richard Phelps (Third Mate) - My paycheck 💰
 - Chief Engineer Jay - I never have to drive to work, never get stuck in traffic, the coffee’s free and
 they kill you with the fresh-baked cookies 🍪
@@ -65,8 +65,8 @@ they kill you with the fresh-baked cookies 🍪
 - Carl - The pay 💸
 - Gilles (Marine Technician) - Being at sea ⛵
 - Brian (Marine Science Technician 2) - Working with people from different backgrounds and
-diverse places ️
-- Nick (Ship Tech) - Rough weather for the sense of adventure and excitement ️
+diverse places ️💂‍♂️
+- Nick (Ship Tech) - Rough weather for the sense of adventure and excitement ️🌀
 - Cody - Working with people from all over the world 🤠
 - Tim Kane - Specifically on this boat the crew and the science party have both been more positive
 and fun. The science party helps a lot more and is more involved than in the past. And the food is
@@ -74,10 +74,10 @@ better! 😋
 - Hannah Brewer (Rev. Admiral Dr. Brewer) - Being not on land (no shade to the land, Hannah
 just thinks the ocean is cooler!) 🌊
 - Dan - The short commute 🛻
-- Allen - Sunset, stars, and lightning storms in the distance ️
+- Allen - Sunset, stars, and lightning storms in the distance ️⚡
 - Robert (AB) - The ability to travel to ports you can’t usually and exploring the surrounding area
 as well 🌞
-- John - Better time off than a shoreside job ‍
+- John - Better time off than a shoreside job ‍👨‍🍳
 - Chantal - The challenge of each day. Everything is harder on a boat, from taking a shower to
 cooking, and it provides the adrenaline of doing something really hard and then looking back and
 saying “I did it!”. There really is no place as peaceful and refreshing as being in the middle of the
