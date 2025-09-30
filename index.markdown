@@ -138,6 +138,9 @@ title: Galapagos Triple Junction OBS Deployment
       <a href="/deployment/MGLCribs"> MGL Cribs</a>
       <a href="/deployment/LifeAboard"> Life Aboard</a>
       <a href="/deployment/TheseAreAFewofOurFavoriteThings"> These Are a Few of *Our* Favorite Things </a>
+      <a href="/deployment/OBSFAQ"> Q&A Concerning Ocean Bottom Seismometers </a>
+
+    
 
      
     </div>
