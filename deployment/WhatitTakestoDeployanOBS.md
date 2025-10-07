@@ -17,14 +17,7 @@ permalink: /deployment/WhatitTakestoDeployanOBS/
 <p style="color: blue;">
 
 We completed 44 OBS deployments during this cruise. Usually, when we hear over the radio that we’re nearing
-the deployment site, we put on our safety gear, walk to the deck, and begin the operation. A couple of intense
-
-moments. Then we wait. First for the OBS to reach the bottom, then for the survey to finish. This is about three-
-hours of wait. Once that’s done, we’re free to rest or do whatever we want until we reach the next location. (So,
-
-it’s movie time😊😊. I’m kidding.)
-That’s the drama on stage. Then there is a group of people behind the curtain. Now, it’s time to see what they do
-behind the spotlight; what it really takes to have each OBS ready for us to deploy at every location.
+the deployment site, we put on our safety gear, walk to the deck, and begin the operation. A couple of intense moments. Then we wait. First for the OBS to reach the bottom, then for the survey to finish. This is about three- hours of wait. Once that’s done, we’re free to rest or do whatever we want until we reach the next location. (So, it’s movie time😊😊. I’m kidding.) That’s the drama on stage. Then there is a group of people behind the curtain. Now, it’s time to see what they do behind the spotlight; what it really takes to have each OBS ready for us to deploy at every location.
 First, I directed the question to Mark, the captain of the R/V Marcus Langseth.
 </p>
 
