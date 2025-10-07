@@ -142,6 +142,7 @@ The OBS lab – Every cable replaced, every sensor tested, and every design twea
 
  </p>
 
+By Dilini Arachige
 <div style="margin-top: 2em;">
   <p><strong>Share this page:</strong></p>
   <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url }}&text={{ page.title | uri_escape }}" target="_blank" style="margin-right: 10px;">
