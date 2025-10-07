@@ -62,12 +62,12 @@ There are two other marine technicians on board. Gilles and Brian.
 
 **Gilles:** I make sure every instrument works and that all the data is collected and properly stored. If something stops recording, I have to fix it quickly, so no data is lost. Every dataset, gravity, bathymetry, navigation, depends on the others. If we have great gravity data but no coordinates, it’s useless. So, I treat every data stream as equally important. I also duplicate everything; if one copy fails, there’s always a backup. That’s my main job on this cruise.
 
-<p style="color: green;"><i>(That’s a lot of responsibility.)</i>i> </p>
+<p style="color: green;"><i>(That’s a lot of responsibility.)</i> </p>
 
 **Brian:** I’m in charge of seismic operations, air guns, winches, that sort of thing. For OBS work, I operate the A- frame. For CTDs, I run the DESH 5 winch (Did I hear that right? I’m not sure). I put everything together and keep
 it running. During OBS deployment, I’m the winch operator. I have worked with thousands of OBS deployments.
 
-<p style="color: green;"> <i>(His answers are short 😊😊.)</i>i> </p>
+<p style="color: green;"> <i>(His answers are short 😊😊.)</i> </p>
 
 
 <hr>
@@ -82,7 +82,7 @@ Tim and Hannah work the midnight-to-noon shift for the OBS deployments.
 
 **Tim:** Okay. Well, I’m Tim, a senior engineering assistant. My job is to support the electrical side of all the deployments. If anything fails electrically, I’m here to fix it. I also help with the deployment process itself.
 
-<p style="color: green;"> <i>(He pauses to think.)</i>i> </p>
+<p style="color: green;"> <i>(He pauses to think.)</i> </p>
 
 I’ve probably handled... some thousands of OBSs. That includes both recoveries and deployments. On one of the cruises, we deployed eighty instruments and recovered eighty—so, in total, handled about one hundred and sixty instruments within one cruise.
 
