@@ -67,7 +67,7 @@ There are two other marine technicians on board. Gilles and Brian.
 **Brian:** I’m in charge of seismic operations, air guns, winches, that sort of thing. For OBS work, I operate the A- frame. For CTDs, I run the DESH 5 winch (Did I hear that right? I’m not sure). I put everything together and keep
 it running. During OBS deployment, I’m the winch operator. I have worked with thousands of OBS deployments.
 
-<p style="color: green;"> <i>(His answers are short 😊😊.)</i> </p>
+<p style="color: green;"> <i>(His answers are short 😊😊.) </i> </p>
 
 
 <hr>
