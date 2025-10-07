@@ -97,7 +97,7 @@ There’s also hazmat documentation for batteries and chemicals, which has to be
 As soon as one cruise ends, we begin demobilization, and that process flows directly into mobilization for the next experiment. This cruise was a bit unusual because it got delayed. We had to make sure the batteries stayed alive during that time, so we opened housings we normally wouldn’t, disconnected and resealed batteries, and then reconnected and retested everything later. It was more repetitive work than usual, but everything worked out in the end, so that’s good.
 
 
-<p style="color: green;"> <i>(She smiles.)</i>i> </p>
+<p style="color: green;"> <i>(She smiles.)</i> </p>
 
 <p style="color: blue;">
 Finally, I talked to Dan and Alan, who work the noon-to-midnight shift for the OBS deployments.
