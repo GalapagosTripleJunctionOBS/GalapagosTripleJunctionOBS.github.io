@@ -138,11 +138,12 @@ Those two projects took years, starting around the pandemic, focused on replacin
 
 <p style="color: blue;">
 
-The OBS lab – Every cable replaced, every sensor tested, and every design tweak ensures that when an OBS disappears beneath the waves, it will wake up on the seafloor and send back a piece of the Earth’s story.
+The OBS lab; Every cable replaced, every sensor tested, and every design tweak ensures that when an OBS disappears beneath the waves, it will wake up on the seafloor and send back a piece of the Earth’s story.
 
  </p>
 
 By Dilini Arachchige
+
 <div style="margin-top: 2em;">
   <p><strong>Share this page:</strong></p>
   <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url }}&text={{ page.title | uri_escape }}" target="_blank" style="margin-right: 10px;">
